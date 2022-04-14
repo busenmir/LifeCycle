@@ -1,7 +1,7 @@
-<font color ="blue">  LifeCycle Konu Anlatımı </font>
+<h3  LifeCycle Konu Anlatımı >
   
   
   <b> Daha Fazlası İçin </b>
   
-  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@buse93dmr/android-kotlin-life-cycle-c4cb02f1d983">
+ [instagram]: https://medium.com/@buse93dmr/android-kotlin-life-cycle-c4cb02f1d983
   
